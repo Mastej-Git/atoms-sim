@@ -1,0 +1,3 @@
+/home/feniks/my_ws/random_prj/atoms-sim/build/CMakeFiles/atoms-sim.dir
+/home/feniks/my_ws/random_prj/atoms-sim/build/CMakeFiles/edit_cache.dir
+/home/feniks/my_ws/random_prj/atoms-sim/build/CMakeFiles/rebuild_cache.dir
